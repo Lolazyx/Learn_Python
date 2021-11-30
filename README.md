@@ -1,1 +1,1 @@
-`Check Version | python --version`
+# Check Version
