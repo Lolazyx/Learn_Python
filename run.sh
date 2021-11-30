@@ -1,2 +1,2 @@
 python --version
-python ex3_datatype&variable.py
+python ex4_syntex-variable.py
