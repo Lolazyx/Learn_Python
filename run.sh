@@ -1,1 +1,1 @@
-python ex5_type-conversion.py
+python ex6_input.py
