@@ -1,2 +1,1 @@
-python --version
-python ex4_syntex-variable.py
+python ex5_type-conversion.py
