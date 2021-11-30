@@ -1,2 +1,2 @@
 python --version
-python ex1_comment.py
+python ex3_datatype&variable.py
