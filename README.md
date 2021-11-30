@@ -4,3 +4,4 @@
 # Data Type
 
 ![Datatype]()
+![Datatype2]()
