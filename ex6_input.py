@@ -10,4 +10,4 @@ print("Your name :" + fname + " " + lname)
 num1 = int(input("Number1 : "))
 num2 = int(input("Number2 : "))
 results = num1 + num2
-print("results : " + str(results))
+print("results : ", results)
